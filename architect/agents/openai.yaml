@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architect"
+  short_description: "Analyze a project and write docs/structure.md."
+  default_prompt: "Use $architect to analyze this project and generate docs/structure.md."
